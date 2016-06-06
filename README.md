@@ -13,7 +13,7 @@ OpenSpending supports many use cases, and those of OpenBudgets.eu are a subset. 
 
 # Platform architecture
 
-![OpenBudgets.eu Architecture][https://docs.google.com/drawings/d/1IoetSkV1X8AtGy1NuWtpC1S_nsLT1usn7zU2SdY45Qg/pub?w=960&h=720]
+![OpenBudgets.eu Architecture](https://docs.google.com/drawings/d/1IoetSkV1X8AtGy1NuWtpC1S_nsLT1usn7zU2SdY45Qg/pub?w=960&h=720)
 
 ## Overview of components
 
